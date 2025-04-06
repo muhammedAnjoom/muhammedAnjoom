@@ -17,8 +17,8 @@
 <br>
 <p align="left"> <img src="https://img.shields.io/badge/Profile_Views-1k-blue" alt="prathmesh" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/muhammed_Anjoom-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmuhammed-anjoom%2F
-)]([https://www.linkedin.com/in/prathmesh-jadhav-4933ab172/](https://www.linkedin.com/in/muhammed-anjoom/))
+[![Twitter Badge](https://img.shields.io/badge/muhammed_Anjoom-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmuhammed-anjoom%2F
+)](https://www.linkedin.com/in/muhammed-anjoom/)
 [![Gmail Badge](https://img.shields.io/badge/anjoompa42003%40gmail.com-red?logo=gmail&logoColor=%23ffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmuhammed-anjoom%2F
 )](mailto:anjoompa42003@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/anjoom.coder-blue?logo=instagram&logoColor=%23ffff&link=https%3A%2F%2Fwww.instagram.com%2Fanjoom.coder%2F
