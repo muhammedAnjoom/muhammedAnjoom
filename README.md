@@ -61,27 +61,8 @@
 
 ## 📈 Stats
 
-![Prathmesh's github stats](https://github-readme-stats.vercel.app/api?username=prathmesh16&hide=["issues"]&show_icons=true&line_height=30)
+![muhammedAnjoom github stats](https://github-readme-stats.vercel.app/api?username=muhammedAnjoom&hide=["issues"]&show_icons=true&line_height=30)
 
-![Prathmesh's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh16&theme=buefy&layout=compact&langs_count=10)
-
-----
-Credit: [Prathmesh Jadhav](https://github.com/prathmesh16)
-
-Last Edited on: 27/05/2021
+![muhammedAnjoom Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedAnjoom&theme=buefy&layout=compact&langs_count=10)
 
 
-<!--
-**prathmesh16/prathmesh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
